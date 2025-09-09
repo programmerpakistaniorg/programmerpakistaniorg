@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhammadta35688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadta35688" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mtayyabattari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad tayyab attari" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muhammad.tayyab.sipra.2025/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad tayyab sipra" height="30" width="40" /></a>
-<a href="https://instagram.com/progtayofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progtayofficial" height="30" width="40" /></a>
-<a href="https://youtube.com/@progtay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="progtay" height="30" width="40" /></a>
+<a href="https://twitter.com/muhammadta35688" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadta35688" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mtayyabattari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad tayyab attari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muhammad.tayyab.sipra.2025/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad tayyab sipra" height="30" width="40" /></a>
+<a href="https://instagram.com/progtayofficial" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progtayofficial" height="30" width="40" /></a>
+<a href="https://youtube.com/@progtay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="progtay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
