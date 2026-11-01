@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Attari</h1>
-<h3 align="center">A creative Frontend Developer from Pakistan</h3>
+<h3 align="center">A creative AI Developer from Pakistan</h3>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGNpdnMxeG0wbzVlcnQ0Y3U4NHFvYzNpOGNtcmJmeTRtbTcyY2FsNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" alt="coding" width=400>
 
